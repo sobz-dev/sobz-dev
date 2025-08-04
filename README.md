@@ -26,7 +26,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sobz-dev?color=1F9FF7&style=for-the-badge&logo=star"/>
   </a>
   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sobz-dev?color=1F9FF7&style=for-the-badge&logo=person add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sobz-dev?color=1F9FF7&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=sobz-dev&color=1F9FF7&style=for-the-badge&label=Visitors&abbreviated=true"/>
