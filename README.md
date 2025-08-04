@@ -22,6 +22,8 @@
 <br/>
 
 <p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+
   <a href="https://github.com/sobz-dev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sobz-dev?color=1F9FF7&style=for-the-badge&logo=star"/>
   </a>
@@ -30,6 +32,8 @@
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=sobz-dev&color=1F9FF7&style=for-the-badge&label=Visitors&abbreviated=true"/>
+
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
   
 </p>
 
